@@ -22,21 +22,38 @@ facilitating expansion and success in the new sites.
 
 
 <h2>Following requirements are given by the Management. </h2>
-<br>* Batsol Inside area network must to provding Private IP address & out side area network create to Public IP address.</br>
-<br>* main branch is directly connected to a fiber internet connection and also Sub branch Directly connect to the DSL Modem </br>
-<br>* main branch network, four servers are being developed with IP addresses assigned using FLSM </br>
-<br>* inter area routing protocol is Static routing and out born area ill choose for BGP (Border gateway protocol) routing protocols.</br>
-<br>* main branch of Batsol Company, EtherChannel and Spanning Tree Protocol (STP) configured for a dependable and effective network </br>
-<br>* establishing secure connection protocols. SSH (Secure Shell) </br>
-<br>* An FTP (File Transfer Protocol) service will enable the secure transfer of data.</br>
-<br>* a backup solution to improve security and backup options (Azure)</br>
-<br>* Batsol intends to deploy web based VPN services (Point to Site VPN)<br>
-<br>* Batsol intends to deploy web based Firewall services (Azure Firewalls)<br>
-<br>* and also some security mechanism (Port Security, Enable Password, AAA Server, Wireless Router Encryption.<br> 
-<br>* Server (NTP, Syslog, WEB & DNS, File, Mail) Servers are using a batsol network. </br>
+<br>⚡️ Batsol Inside area network must to provding Private IP address & out side area network create to Public IP address.</br>
+<br>⚡️ main branch is directly connected to a fiber internet connection and also Sub branch Directly connect to the DSL Modem </br>
+<br>⚡️ main branch network, four servers are being developed with IP addresses assigned using FLSM </br>
+<br>⚡️ inter area routing protocol is Static routing and out born area ill choose for BGP (Border gateway protocol) routing protocols.</br>
+<br>⚡️ main branch of Batsol Company, EtherChannel and Spanning Tree Protocol (STP) configured for a dependable and effective network </br>
+<br>⚡️ establishing secure connection protocols. SSH (Secure Shell) </br>
+<br>⚡️ An FTP (File Transfer Protocol) service will enable the secure transfer of data.</br>
+<br>⚡️ a backup solution to improve security and backup options (Azure)</br>
+<br>⚡️ Batsol intends to deploy web based VPN services (Point to Site VPN)<br>
+<br>⚡️ Batsol intends to deploy web based Firewall services (Azure Firewalls)<br>
+<br>⚡️ and also some security mechanism (Port Security, Enable Password, AAA Server, Wireless Router Encryption.<br> 
+<br>⚡️ Server (NTP, Syslog, WEB & DNS, File, Mail) Servers are using a batsol network. </br>
 
-<h2>System Image. </h2>
-![Capture](https://github.com/fairoosfa/fairoosfa/assets/133477567/20a8d8a4-0bbd-4c08-9e9f-afdcd04a32b0)
+<br> <b> <font color="red"> This is My System Preview </font> </b> </br>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <center>
+        <img src="https://github.com/fairoosfa/Final-Project/assets/133477567/4904b6e8-1b25-498c-a48d-0fedf0fa445a" alt="Description of the image" width="800" height="350">
+    </center>
+    
+</br>
+  You can see my final project & Final cisco sourse file you can check the Google Drive link in below 👇
+  <br> Cisco Sourse File: <a href="https://drive.google.com/file/d/1imVgn2VZ0ORC40mkpWSABhuI6PEMBv4D/view?usp=sharing"> Download Here</a> 
+  <br> Final Project File: <a href="https://drive.google.com/file/d/1Bg2Co_UzUIxTsc5DgraecT_E6nBn0H-X/view?usp=sharing"> Download Here</a> </br>
+ 
+  
+
 
 
 
